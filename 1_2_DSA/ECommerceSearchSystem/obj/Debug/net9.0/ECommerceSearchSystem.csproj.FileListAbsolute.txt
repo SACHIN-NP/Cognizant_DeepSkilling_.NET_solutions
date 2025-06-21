@@ -1,0 +1,14 @@
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\ECommerceSearchSystem\bin\Debug\net9.0\ECommerceSearchSystem.exe
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\ECommerceSearchSystem\bin\Debug\net9.0\ECommerceSearchSystem.deps.json
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\ECommerceSearchSystem\bin\Debug\net9.0\ECommerceSearchSystem.runtimeconfig.json
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\ECommerceSearchSystem\bin\Debug\net9.0\ECommerceSearchSystem.dll
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\ECommerceSearchSystem\bin\Debug\net9.0\ECommerceSearchSystem.pdb
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\ECommerceSearchSystem\obj\Debug\net9.0\ECommerceSearchSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\ECommerceSearchSystem\obj\Debug\net9.0\ECommerceSearchSystem.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\ECommerceSearchSystem\obj\Debug\net9.0\ECommerceSearchSystem.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\ECommerceSearchSystem\obj\Debug\net9.0\ECommerceSearchSystem.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\ECommerceSearchSystem\obj\Debug\net9.0\ECommerceSearchSystem.dll
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\ECommerceSearchSystem\obj\Debug\net9.0\refint\ECommerceSearchSystem.dll
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\ECommerceSearchSystem\obj\Debug\net9.0\ECommerceSearchSystem.pdb
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\ECommerceSearchSystem\obj\Debug\net9.0\ECommerceSearchSystem.genruntimeconfig.cache
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\ECommerceSearchSystem\obj\Debug\net9.0\ref\ECommerceSearchSystem.dll

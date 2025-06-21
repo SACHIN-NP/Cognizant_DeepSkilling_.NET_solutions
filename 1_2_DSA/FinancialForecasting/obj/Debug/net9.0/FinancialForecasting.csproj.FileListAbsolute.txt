@@ -1,0 +1,14 @@
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.exe
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.deps.json
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.runtimeconfig.json
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.dll
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.pdb
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.dll
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\FinancialForecasting\obj\Debug\net9.0\refint\FinancialForecasting.dll
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.pdb
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.genruntimeconfig.cache
+C:\Users\KIIT\OneDrive\Desktop\Cognizant_DeepSkilling_.NET_solutions\1_2_DSA\FinancialForecasting\obj\Debug\net9.0\ref\FinancialForecasting.dll

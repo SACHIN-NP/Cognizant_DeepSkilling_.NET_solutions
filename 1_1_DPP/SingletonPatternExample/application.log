@@ -1,0 +1,18 @@
+[INFO] 2025-06-20 09:09:51 - Application started successfully
+[WARNING] 2025-06-20 09:09:51 - This is a warning message from logger2
+[ERROR] 2025-06-20 09:09:51 - This is an error message from logger3
+[INFO] 2025-06-20 09:09:51 - All loggers are actually the same instance
+[INFO] 2025-06-20 09:09:51 - Message from Thread 0 - HashCode: 54267293
+[INFO] 2025-06-20 09:09:51 - Message from Thread 1 - HashCode: 54267293
+[INFO] 2025-06-20 09:09:51 - Message from Thread 2 - HashCode: 54267293
+[INFO] 2025-06-20 09:09:51 - Message from Thread 3 - HashCode: 54267293
+[INFO] 2025-06-20 09:09:51 - Message from Thread 4 - HashCode: 54267293
+[INFO] 2025-06-20 09:18:25 - Application started successfully
+[WARNING] 2025-06-20 09:18:25 - This is a warning message from logger2
+[ERROR] 2025-06-20 09:18:25 - This is an error message from logger3
+[INFO] 2025-06-20 09:18:25 - All loggers are actually the same instance
+[INFO] 2025-06-20 09:18:25 - Message from Thread 1 - HashCode: 54267293
+[INFO] 2025-06-20 09:18:25 - Message from Thread 2 - HashCode: 54267293
+[INFO] 2025-06-20 09:18:25 - Message from Thread 0 - HashCode: 54267293
+[INFO] 2025-06-20 09:18:25 - Message from Thread 3 - HashCode: 54267293
+[INFO] 2025-06-20 09:18:25 - Message from Thread 4 - HashCode: 54267293
