@@ -1,0 +1,22 @@
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\MagicFilesProject\MagicFilesLib\bin\Debug\net9.0\MagicFilesLib.deps.json
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\MagicFilesProject\MagicFilesLib\bin\Debug\net9.0\MagicFilesLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\MagicFilesProject\MagicFilesLib\bin\Debug\net9.0\MagicFilesLib.pdb
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\MagicFilesProject\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\MagicFilesProject\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\MagicFilesProject\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\MagicFilesProject\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\MagicFilesProject\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\MagicFilesProject\MagicFilesLib\obj\Debug\net9.0\refint\MagicFilesLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\MagicFilesProject\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.pdb
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\MagicFilesProject\MagicFilesLib\obj\Debug\net9.0\ref\MagicFilesLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\MagicFilesProject\MagicFilesLib\bin\Debug\net9.0\MagicFilesLib.deps.json
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\MagicFilesProject\MagicFilesLib\bin\Debug\net9.0\MagicFilesLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\MagicFilesProject\MagicFilesLib\bin\Debug\net9.0\MagicFilesLib.pdb
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\MagicFilesProject\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\MagicFilesProject\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\MagicFilesProject\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\MagicFilesProject\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\MagicFilesProject\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\MagicFilesProject\MagicFilesLib\obj\Debug\net9.0\refint\MagicFilesLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\MagicFilesProject\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.pdb
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\MagicFilesProject\MagicFilesLib\obj\Debug\net9.0\ref\MagicFilesLib.dll

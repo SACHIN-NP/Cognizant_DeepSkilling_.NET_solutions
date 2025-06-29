@@ -1,0 +1,22 @@
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.deps.json
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.pdb
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\CustomerCommLib\obj\Debug\net9.0\refint\CustomerCommLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.pdb
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\CustomerCommLib\obj\Debug\net9.0\ref\CustomerCommLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\CustomerCommunication_mail\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.deps.json
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\CustomerCommunication_mail\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\CustomerCommunication_mail\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.pdb
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\CustomerCommunication_mail\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\CustomerCommunication_mail\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\CustomerCommunication_mail\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\CustomerCommunication_mail\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\CustomerCommunication_mail\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\CustomerCommunication_mail\CustomerCommLib\obj\Debug\net9.0\refint\CustomerCommLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\CustomerCommunication_mail\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.pdb
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\CustomerCommunication_mail\CustomerCommLib\obj\Debug\net9.0\ref\CustomerCommLib.dll

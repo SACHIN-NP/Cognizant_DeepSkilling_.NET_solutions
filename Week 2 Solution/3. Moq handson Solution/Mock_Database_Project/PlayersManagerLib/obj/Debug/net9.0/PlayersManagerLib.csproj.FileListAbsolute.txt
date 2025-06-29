@@ -1,0 +1,22 @@
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\Mock_Database_Project\PlayersManagerLib\bin\Debug\net9.0\PlayersManagerLib.deps.json
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\Mock_Database_Project\PlayersManagerLib\bin\Debug\net9.0\PlayersManagerLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\Mock_Database_Project\PlayersManagerLib\bin\Debug\net9.0\PlayersManagerLib.pdb
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\Mock_Database_Project\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\Mock_Database_Project\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\Mock_Database_Project\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\Mock_Database_Project\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\Mock_Database_Project\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\Mock_Database_Project\PlayersManagerLib\obj\Debug\net9.0\refint\PlayersManagerLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\Mock_Database_Project\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.pdb
+C:\Users\KIIT\OneDrive\Desktop\Moq handson\Mock_Database_Project\PlayersManagerLib\obj\Debug\net9.0\ref\PlayersManagerLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\Mock_Database_Project\PlayersManagerLib\bin\Debug\net9.0\PlayersManagerLib.deps.json
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\Mock_Database_Project\PlayersManagerLib\bin\Debug\net9.0\PlayersManagerLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\Mock_Database_Project\PlayersManagerLib\bin\Debug\net9.0\PlayersManagerLib.pdb
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\Mock_Database_Project\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\Mock_Database_Project\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\Mock_Database_Project\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\Mock_Database_Project\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\Mock_Database_Project\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\Mock_Database_Project\PlayersManagerLib\obj\Debug\net9.0\refint\PlayersManagerLib.dll
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\Mock_Database_Project\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.pdb
+C:\Users\KIIT\OneDrive\Desktop\Week 2 Solution\Moq handson\Mock_Database_Project\PlayersManagerLib\obj\Debug\net9.0\ref\PlayersManagerLib.dll
