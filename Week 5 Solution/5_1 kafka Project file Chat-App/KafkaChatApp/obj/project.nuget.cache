@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AofOh/HBTXw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Cognizant_DeepSkilling_.NET_solutions\\Week 5 Solution\\kafka\\KafkaChatApp\\KafkaChatApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIIT\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\librdkafka.redist\\2.11.0\\librdkafka.redist.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
