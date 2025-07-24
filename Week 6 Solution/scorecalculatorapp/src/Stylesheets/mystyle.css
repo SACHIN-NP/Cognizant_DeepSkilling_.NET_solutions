@@ -1,0 +1,27 @@
+
+.score-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 2px solid #333;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.student-info {
+  background-color: white;
+  padding: 15px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.student-info p {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+h2 {
+  color: #333;
+  margin-bottom: 20px;
+}

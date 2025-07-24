@@ -1,0 +1,23 @@
+.box {
+  width: 300px;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  border:2px solid black;
+  border-radius: 50px;
+  background-color: #f9f9f9;
+}
+h1{
+  font-weight:1200;
+  color: brown;
+  
+}
+dl{
+  text-align: left;
+}
+
+
+dt {
+  font-weight: 500;
+  margin-top: 10px;
+}
